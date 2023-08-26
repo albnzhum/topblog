@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "bootstrap-vue": "^2.23.1",
+    "vue": "^2.7.14",
+    "vue-good-table": "^2.21.11",
+    "vue-latest-table": "^1.0.5"
+  }
+}
